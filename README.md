@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi repositorio de práctica con React, React Router DOM y Tailwind CSS!
 
-Este repositorio está diseñado para practicar y explorar las funcionalidades de **React** junto con **React Router DOM** (versión 7) para la gestión de rutas y **Tailwind CSS** para el diseño y estilizado de componentes. Aquí encontrarás ejemplos básicos y avanzados de cómo implementar rutas, componentes y estilos en una aplicación React moderna.
+Este repositorio está diseñado para practicar y explorar las funcionalidades de **React** junto con **React Router DOM** para la gestión de rutas y **Tailwind CSS** para el diseño y estilizado de componentes. Aquí encontrarás ejemplos básicos y avanzados de cómo implementar rutas, componentes y estilos en una aplicación React moderna.
 
 ## 🚀 Tecnologías Utilizadas
 
